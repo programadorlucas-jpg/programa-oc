@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+ int main() {
+     int idade; 29
+     float altura; 1,81
+     double saldobancario; 2.000
+     char opcão; 'A'
+     char nome; Lucas
+    
+    
+     printf ("idade: %d anoe\n" idade) 
+     printf ("altura: 2.%f metros\n" alturq)
+     printf ("saldo_bancario: 2.%f reais \n" saldobancario)
+     printf ("inicial do nome: %c \n" inicial)
+     printf (" nome: %c \n" nome)
+
+     return 0         
+
+
+
+
+
+}
